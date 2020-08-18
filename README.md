@@ -2,12 +2,15 @@
 ### Executing
 No Python installation is necessary, you just need to ensure that you have the "dist" folder on your system.
 
-Inside the dist folder, double click the google_mobility_filtering.exe and let the script do the rest!!
+Place the CSV inside the "dist" folder and ensure that it is named "Global_Mobility_Report.csv" and then double click google_mobility_filtering.exe.
 
-### Installation
+A new CSV named "Global_Mobility_Report_Filtered.csv" will be created
+
+
+### Installation (only needed if you want to run with pure Python)
 Install latest version of [Python](https://www.python.org/downloads/) 
 
-Navigate to the folder of the apple_product_scraper in command line/terminal
+Navigate to the folder of the google-mobility-filtering in command line/terminal
 
 ```sh
 $ cd "C:\Users\folder-path-to\google-mobility-filtering"
